@@ -1,0 +1,4 @@
+3
+63C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\index.html132778346179820257 0
+60C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\main.js132778348435425846 0
+67C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\operaciones.js132778347309811108 0

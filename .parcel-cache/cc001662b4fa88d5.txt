@@ -1,0 +1,8 @@
+7
+79C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js.map132778359480022012 0
+60C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\main.js132778357822414974 0
+57C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\dist132778359480051941 1
+63C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\index.html132778346179820257 0
+67C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\operaciones.js132778359478156219 0
+75C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\dist\index.6b9ca3e8.js132778359479972161 0
+68C:\Users\Sheila\Documents\bootcamp-cohorte-5\modulos\dist\index.html132778359479932255 0
